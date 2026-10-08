@@ -1,4 +1,7 @@
-# WISEST-QA-Dataset
+# WISEST-QA-Dataset 2024
+
+## Sample of systematic reviews appraised with AMSTAR 2 and ROBIS tools
+150 systematic reviews that were appraised with AMSTAR 2 and ROBIS by 30 evaluators
 
 ## Install the fetcher
 ```
